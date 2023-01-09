@@ -1,0 +1,42 @@
+body{
+background :rgb(73, 73, 73);
+margin: 50px;
+padding: 0;
+text-align: center;
+background-size: cover;
+background-position: center;
+font-family: sans-serif;
+}
+
+.title h1{
+color: #fff;
+background: #ff5722;
+}
+.content{
+    color: rgb(236, 232, 232);
+    text-transform: uppercase;
+    transition: all 4s ease-in-out;
+}
+.button{
+    background: #ff5722;
+    border-color: transparent;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 30px;
+    margin-top: 20px;
+}
+.button:hover{
+    background-color: #f44336;
+    cursor: pointer;
+}
+.col-2 img{
+    max-width: 100%;
+    padding: 50px 0;
+}
+
+
+.social{
+    background: #ff5722;
+}
